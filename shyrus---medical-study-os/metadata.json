@@ -1,0 +1,7 @@
+{
+  "name": "SHYRUS - Medical Study OS",
+  "description": "A gamified, minimalist FMGE study assistant for doctors balancing hospital duties and exam preparation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
